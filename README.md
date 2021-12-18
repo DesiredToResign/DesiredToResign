@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DesiredToResign
-- 👀 I’m interested in C# Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Desired, Not much to say, I like coding. I code Lua, C# and stuff.
 
 <!---
 DesiredToResign/DesiredToResign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
