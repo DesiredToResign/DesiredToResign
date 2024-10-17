@@ -1,6 +1,8 @@
 desired
 -C#
 -Lua
+-Java
+-Processing
 
 <!---
 DesiredToResign/DesiredToResign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
