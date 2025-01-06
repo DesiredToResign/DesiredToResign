@@ -3,6 +3,9 @@ desired
 -Lua
 -Java
 -Processing
+-HTML
+-CSS
+-JavaScript
 
 <!---
 DesiredToResign/DesiredToResign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
